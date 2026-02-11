@@ -27,7 +27,4 @@
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kokasribeiro&color=bd93f9&style=for-the-badge" alt="Profile Views"/>
-</div>
 
