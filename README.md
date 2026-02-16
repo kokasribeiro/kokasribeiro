@@ -6,7 +6,6 @@
 
 # 👨‍💻 About Me:
 - 💻 I'm currently working with Front-end development
-- 📚 I'm currently learning TypeScript
 - 📬 Contact me by email: kokasribeiro@gmail.com
 - 😄 Pronouns: he/him
 
