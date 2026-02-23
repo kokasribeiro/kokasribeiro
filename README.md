@@ -14,7 +14,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-app-two-omega.vercel.app/)
 
 # 💻 Tech Stack:
-# 💻 Tech Stack:
 
 ## 🎨 Frontend
 <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" /> <img src="https://cdn.simpleicons.org/sass/CC6699" alt="Sass" width="40" height="40" /> <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="40" height="40" /> <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" height="40" /> <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="40" height="40" /> <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="40" height="40" /> <img src="https://cdn.simpleicons.org/angular/DD0031" alt="Angular" width="40" height="40" /> <img src="https://cdn.simpleicons.org/vite/646CFF" alt="Vite" width="40" height="40" /> <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40" /> <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40" height="40" /> <img src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" width="40" height="40" />
