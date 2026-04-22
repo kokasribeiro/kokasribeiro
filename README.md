@@ -16,11 +16,30 @@
 # 💻 Tech Stack:
 
 ## 🎨 Frontend
-<img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" /> <img src="https://cdn.simpleicons.org/sass/CC6699" alt="Sass" width="40" height="40" /> <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="40" height="40" /> <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" height="40" /> <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="40" height="40" /> <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="40" height="40" /> <img src="https://cdn.simpleicons.org/angular/DD0031" alt="Angular" width="40" height="40" /> <img src="https://cdn.simpleicons.org/vite/646CFF" alt="Vite" width="40" height="40" /> <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40" /> <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40" height="40" /> <img src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" width="40" height="40" />
+<p>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/sass/CC6699" alt="Sass" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/angular/DD0031" alt="Angular" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vite/646CFF" alt="Vite" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" width="40" height="40" />
+</p>
 
 ## ⚙️ Backend
-<img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" width="40" height="40" /> <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" width="40" height="40" /> <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="40" height="40" /> <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="40" height="40" /> <img src="https://cdn.simpleicons.org/fastify/000000" alt="Fastify" width="40" height="40" /> <img src="https://cdn.simpleicons.org/prisma/2D3748" alt="Prisma" width="40" height="40" /> <img src="https://cdn.simpleicons.org/render/46E3B7" alt="Render" width="40" height="40" />
+<p>
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/fastify/000000" alt="Fastify" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" alt="Prisma" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/render/46E3B7" alt="Render" width="40" height="40" />
+</p>
 
 ---
-
-
